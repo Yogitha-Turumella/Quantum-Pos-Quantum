@@ -25,56 +25,33 @@ By integrating Qiskit and quantum cryptographic methods, this system ensures tha
 🛠 Installation Steps
 Clone the repository
 
-sh
-Copy
-Edit
+
 git clone https://github.com/Yogitha-Turumella/Quantum-Pos-Quantum.git
 cd Quantum-Pos-Quantum
 Create a virtual environment
 
-sh
-Copy
-Edit
+
 python -m venv qiskit-env
 Activate the virtual environment
 
 Windows (PowerShell)
-sh
-Copy
-Edit
 qiskit-env\Scripts\Activate
+
 Mac/Linux
-sh
-Copy
-Edit
 source qiskit-env/bin/activate
+
 Install dependencies
-
-sh
-Copy
-Edit
 pip install -r requirements.txt
-Run the application
 
-sh
-Copy
-Edit
-python app.py
+Run the application
+streamlit run app.py
+
 📸 Screenshots
 1️⃣ Quantum Circuit Creation
-md
-Copy
-Edit
 ![Quantum Circuit Creation](assets/output-1.png)
 2️⃣ Quantum Computation Processing
-md
-Copy
-Edit
 ![Quantum Computation Processing](assets/output-2.png)
 3️⃣ Final Output Result
-md
-Copy
-Edit
 ![Final Output](assets/output-3.png)
 To make the screenshots appear correctly, you must save them inside an assets/ folder.
 
