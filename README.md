@@ -1,4 +1,3 @@
-﻿# Quantum POS System
 # Quantum POS System
 📌 Quantum POS System
 The Quantum Point of Sale (POS) System leverages Quantum Computing to enhance the security and efficiency of transactions. Traditional POS systems rely on classical encryption techniques, which can be vulnerable to evolving cyber threats. By integrating Qiskit, this system employs Quantum Key Distribution (QKD) and quantum randomness to offer an unparalleled level of security and computational efficiency.
@@ -53,7 +52,7 @@ streamlit run app.py
 ![Quantum Computation Processing](assets/output-2.png)
 3️⃣ Final Output Result
 ![Final Output](assets/output-3.png)
-To make the screenshots appear correctly, you must save them inside an assets/ folder.
+
 
 📜 Features
 ✅ Secure transactions using quantum encryption
